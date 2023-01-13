@@ -7,8 +7,8 @@ title:  "Using your Surface Pen as a clicker outside of PowerPoint"
 
 1. Download [Windows PowerToys](https://github.com/microsoft/PowerToys)
 2. Goto Keyboard-Manager and create a new *Key Combination*
-3. Press the pen short once and set it to the `left arrow` key.
-4. Press the pen for a long period and set it to `right arrow` key.
+3. Press the pen short once and set it to the `right arrow` key, to go to the next slide.
+4. Press the pen for a long period and set it to `left arrow` key, to go back one slide.
 5. Set your preferred PDF viewer as the *destination app* so your default keybindings will still work outside of presenting.
 6. Profit.
 
