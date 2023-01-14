@@ -23,8 +23,8 @@ title: Average CS Student Blog
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog of an average computer science student that will
   hopefully share some useful information on here.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.hegenberg.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: paulheg
 github_username:  paulheg
 
